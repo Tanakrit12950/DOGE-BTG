@@ -1,7 +1,6 @@
-*/ Hello */
 {
   "1715698930" : [
-    ["Black Bone",5],
-    ["Black Bone",5],
+    [1] : ["Black Bone",5],
+    [2] : ["Black Bone",5],
   ]
 }
